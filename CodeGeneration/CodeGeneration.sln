@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20617.1 PREVIEW
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Generators", "Generators\Generators.fsproj", "{04BA81CF-420F-4A58-88A3-768EFDBD5043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProject", "MyProject\MyProject.csproj", "{FE5607C8-F093-4583-B6E6-2C63B8595C1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04BA81CF-420F-4A58-88A3-768EFDBD5043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04BA81CF-420F-4A58-88A3-768EFDBD5043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04BA81CF-420F-4A58-88A3-768EFDBD5043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04BA81CF-420F-4A58-88A3-768EFDBD5043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE5607C8-F093-4583-B6E6-2C63B8595C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5607C8-F093-4583-B6E6-2C63B8595C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5607C8-F093-4583-B6E6-2C63B8595C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5607C8-F093-4583-B6E6-2C63B8595C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
